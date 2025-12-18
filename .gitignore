@@ -2,3 +2,5 @@
 .cache
 build
 test-tools
+.env
+node_modules
